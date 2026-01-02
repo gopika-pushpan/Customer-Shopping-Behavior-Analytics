@@ -1,38 +1,73 @@
-# Customer Shopping Behavior Analytics
+# Customer Shopping Behavior Analytics 📊
 
-## 📌 Project Overview
-This project analyzes customer shopping behavior using data analytics and visualization.
-The goal is to uncover insights related to revenue, spending patterns, seasonality, gender, category performance, subscriptions, shipping, and age groups.
+An end-to-end data analytics project that explores customer purchasing behavior and transforms raw retail data into actionable business insights using Python, SQL, and Tableau.
 
-## 🛠 Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib)
-- Google Colab
-- Tableau Public
-- GitHub
+---
 
-## 📂 Files in This Repository
-- customer_analysis.ipynb — Data cleaning and analysis
-- customer_cleaned_data.csv — Cleaned dataset used for visualization
-- customer_shopping_behavior.csv — Original dataset
-- tableau_dashboard_link.txt — Tableau Public dashboard link
+## 🔍 Project Objective
+The objective of this project is to analyze customer shopping patterns and identify key factors that influence revenue, such as:
+- Seasonal trends
+- Product categories
+- Gender-based spending
+- Subscription impact
+- Shipping preferences
+- Age group behavior
 
-## 📊 Interactive Dashboard
-View the live Tableau dashboard here:
+This project demonstrates a complete analytics workflow — from raw data cleaning to interactive dashboard visualization.
 
+---
+
+## 🧩 Dataset Description
+The dataset contains customer-level shopping information, including:
+- Demographics (Age, Gender, Location)
+- Purchase details (Category, Amount, Season, Color, Size)
+- Behavioral attributes (Subscription status, Frequency of purchases)
+- Transaction history
+
+---
+
+## 🛠️ Tools & Technologies Used
+- **Python** (Pandas, NumPy) — data cleaning and preprocessing  
+- **Google Colab** — development environment  
+- **SQLite** — SQL-based business analysis  
+- **Tableau Public** — interactive dashboard creation  
+- **GitHub** — project version control and portfolio hosting  
+
+---
+
+## 🧪 Data Cleaning & Preparation
+- Verified and handled missing values
+- Checked and confirmed absence of duplicate records
+- Created a cleaned dataset for downstream analysis
+- Exported cleaned data for SQL and Tableau integration
+
+---
+
+## 🗃️ SQL Business Analysis
+Using SQLite, multiple business-focused queries were executed to uncover insights such as:
+- Total revenue and average spending
+- Season-wise revenue contribution
+- Category-wise and gender-wise spending patterns
+- Subscription vs non-subscription customer behavior
+- Shipping type performance
+- Age group-based revenue analysis
+
+Each query is documented with insights in the notebook.
+
+---
+
+## 📊 Interactive Tableau Dashboard
+The final insights are visualized using Tableau Public through KPIs and comparative charts.
+
+🔗 **Live Dashboard Link:**  
 https://public.tableau.com/app/profile/gopika.pushpan/viz/CustomerShoppingBehaviorAnalyticsProject/CustomerShoppingBehaviorAnalyticsDashboard
 
-## 🔍 Key Insights
-- Total revenue and average spend overview
-- Seasonal sales comparison
-- Category-wise revenue distribution
-- Gender-based spending analysis
-- Subscription impact on purchases
-- Shipping performance analysis
-- Age group revenue contribution
+Dashboard Highlights:
+- Total Transactions
+- Total Revenue
+- Average Spend
+- Season, Category, Gender, Subscription, Shipping & Age Group analysis
 
-## ✅ Project Status
-Completed and published on Tableau Public.
+---
 
-## 👤 Author
-Gopika Pushpan
-# Customer-Shopping-Behavior-Analytics
+## 📂 Repository Structure
