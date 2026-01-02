@@ -71,3 +71,18 @@ Dashboard Highlights:
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 📌 Key Insights
+- Adult customers (31–50) contribute the highest revenue
+- Certain seasons significantly outperform others in sales
+- Subscription customers show stronger purchasing behavior
+- Standard shipping is the most preferred option
+- Category and gender trends provide clear segmentation opportunities
+
+---
+## 👤 Author
+**Gopika Pushpan**  
+Aspiring Data Analyst | Python | SQL | Tableau
+
